@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-27707824.1028381",
+    "@nuxtjs/google-fonts": "^3.0.0-0",
+    "miniflare": "^2.8.2",
+    "nuxt": "3.0.0-rc.9",
+    "sass": "^1.54.5"
+  },
+  "dependencies": {
+    "@storyblok/nuxt": "^4.3.0",
+    "axios": "^0.27.2",
+    "nuxt-icons": "^2.0.2"
+  }
+}
